@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XiZu233
 - 👀 I’m interested in python/data
-- 🌱 I’m currently learning math
+- 🌱 I’m currently learning InSAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xizu233@gmail.com
 
